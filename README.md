@@ -70,3 +70,24 @@ Secondary sources cited in the deck: World Bank, EuroCharm Vietnam, StoxPlus (Vi
 ## Skills Demonstrated
 
 Market sizing · competitive benchmarking · retail audit (Nielsen-style) data analysis · channel & regional segmentation · pricing analysis · go-to-market strategy (4Ps) · revenue forecasting · executive storytelling
+
+## Report
+<img width="916" height="690" alt="image" src="https://github.com/user-attachments/assets/5a799a56-2a59-4ff8-9716-b237afde3487" />
+<img width="917" height="687" alt="image" src="https://github.com/user-attachments/assets/1570c8f9-bd98-40ab-ae12-94bebecc5a07" />
+<img width="912" height="678" alt="image" src="https://github.com/user-attachments/assets/e41507a4-6efb-46f9-a500-abc00b3c0bbb" />
+<img width="917" height="688" alt="image" src="https://github.com/user-attachments/assets/711ba472-7bd4-4cd9-b6fa-019a8bd4c74e" />
+<img width="917" height="691" alt="image" src="https://github.com/user-attachments/assets/41f5f81c-114a-408f-b8d7-ae72f84487ba" />
+<img width="915" height="690" alt="image" src="https://github.com/user-attachments/assets/df0e534a-8070-4635-ab6c-4274ac294ca2" />
+<img width="917" height="688" alt="image" src="https://github.com/user-attachments/assets/70730a39-a663-4a9f-a8ea-e81a615f395b" />
+<img width="918" height="690" alt="image" src="https://github.com/user-attachments/assets/48c3246c-a7d1-43a0-b4bd-e30bc67e17ae" />
+<img width="917" height="688" alt="image" src="https://github.com/user-attachments/assets/cb2c7a36-51c6-4bbb-ab0a-b81dcfc551d2" />
+<img width="917" height="688" alt="image" src="https://github.com/user-attachments/assets/f15299b2-e10d-4e8b-bf89-cf2440718ff9" />
+<img width="917" height="686" alt="image" src="https://github.com/user-attachments/assets/e10a04cb-767a-4dac-b40e-21c136b3af23" />
+<img width="917" height="688" alt="image" src="https://github.com/user-attachments/assets/15256a9c-cfa6-4734-b1c0-25204c9bb13c" />
+<img width="917" height="687" alt="image" src="https://github.com/user-attachments/assets/3b3d3061-24d5-4b1b-86e0-468c6bc66104" />
+<img width="917" height="688" alt="image" src="https://github.com/user-attachments/assets/38ac63aa-fdcb-48ae-8e7e-5d0756408672" />
+<img width="917" height="692" alt="image" src="https://github.com/user-attachments/assets/f33c2f04-5a41-4cc6-b086-7bd68abf14b6" />
+<img width="917" height="687" alt="image" src="https://github.com/user-attachments/assets/77c43dfb-7dbc-4119-9942-f686b8db2379" />
+<img width="918" height="688" alt="image" src="https://github.com/user-attachments/assets/b4f8f126-53fb-44a2-8c88-8afe3c372796" />
+
+
